@@ -24,6 +24,6 @@ Replace the spaces in column headers with underscores **"_"**
 #### Data Tables:
 ![Data Tables][Data]
 
-[Collision]: https://github.com/rhitviksinha/coursera/blob/master/Guided%20Project/Data%20Science%20Web%20App%20with%20Streamlit%20and%20Python/screenshots/collision_map.JPG
-[Minute]: https://github.com/rhitviksinha/coursera/blob/master/Guided%20Project/Data%20Science%20Web%20App%20with%20Streamlit%20and%20Python/screenshots/data.JPG
-[Data]: https://github.com/rhitviksinha/coursera/blob/master/Guided%20Project/Data%20Science%20Web%20App%20with%20Streamlit%20and%20Python/screenshots/minute_breakdown.JPG
+[Collision]: ./screenshots/collision_map.JPG
+[Minute]: ./screenshots/data.JPG
+[Data]: ./screenshots/minute_breakdown.JPG
